@@ -1,0 +1,2 @@
+Le script nommé scriptFlightgear permet l'exécution du logiciel Flightgear avec différentes options permmetant la communication avec SicosLab.
+Scicoslab est également exécuter avec en parametre le fichier script.sce permettant la simulation. 
