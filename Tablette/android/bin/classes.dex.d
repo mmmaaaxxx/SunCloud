@@ -1,0 +1,26 @@
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes.dex : \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\example\Tablette\BuildConfig.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\example\Tablette\R$array.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\example\Tablette\R$attr.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\example\Tablette\R$drawable.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\example\Tablette\R$layout.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\example\Tablette\R$string.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\example\Tablette\R.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity$1.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity$2.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity$3$1$1.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity$3$1.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity$3.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity$4.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity$5.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity$6.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtActivity.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtApplication$InvokeResult.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\classes\org\kde\necessitas\origo\QtApplication.class \
+C:\Users\Sun-Cloud\Documents\Workspace_Qt\Tablette\android\bin\dexedLibs\annotations-f50073c4f37bcbff6a039328afec5b58.jar \
