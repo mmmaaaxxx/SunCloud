@@ -1,0 +1,25 @@
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes.dex : \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\example\Tablette\BuildConfig.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\example\Tablette\R$array.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\example\Tablette\R$attr.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\example\Tablette\R$drawable.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\example\Tablette\R$layout.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\example\Tablette\R$string.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\example\Tablette\R.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub$Proxy.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\ministro\IMinistro$Stub.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\ministro\IMinistro.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub$Proxy.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback$Stub.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\ministro\IMinistroCallback.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity$1.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity$2.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity$3$1$1.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity$3$1.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity$3.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity$4.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity$5.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity$6.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtActivity.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtApplication$InvokeResult.class \
+D:\Users\NOMADE\Documents\SunCloud\Tablette_desktop_2\android\bin\classes\org\kde\necessitas\origo\QtApplication.class \
