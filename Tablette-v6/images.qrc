@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/automne.png</file>
+        <file>images/blimp_dessus.png</file>
+        <file>images/blimp-grand.png</file>
+        <file>images/blimp-moyen.png</file>
+        <file>images/blimp-petit.png</file>
+        <file>images/carte.png</file>
+        <file>images/carte_small.png</file>
+        <file>images/carte_small1.png</file>
+        <file>images/dirigeable.png</file>
+        <file>images/dirigeable2.png</file>
+        <file>images/dirigeable3.png</file>
+        <file>images/dirigeable4.png</file>
+        <file>images/ete.png</file>
+        <file>images/hiver.png</file>
+        <file>images/icon.png</file>
+        <file>images/logo.png</file>
+        <file>images/logo_suncloud.png</file>
+        <file>images/printemps.png</file>
+        <file>images/zeppelin.png</file>
+        <file>images/blimp_cao_2.png</file>
+    </qresource>
+</RCC>
